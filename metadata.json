@@ -1,0 +1,6 @@
+{
+  "name": "DraftSprout - Holiday Caption & Visual Prompt Studio",
+  "description": "Instantly merge your brand voice and holiday campaigns with battle-tested copywriting formulas into three editable caption drafts and art-directed visual prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
